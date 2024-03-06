@@ -1,0 +1,210 @@
+# Webalizer V2.23-08 Incremental Data - 03/01/2024 05:55:57
+2024 3 1 5 55 57
+12 0 12 0 2 10 2987 9 9 0
+12 3 5 1 1
+12 0 2987 12 9 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 0 1271 4
+1 0 244 1
+0 0 0 0
+1 0 248 0
+2 0 488 2
+3 0 736 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+5-143-50-174.dynamic.primorye.net.ru
+0 1 0 244 1 1709272557
+-
+2.57.122.196
+0 1 0 248 0 0
+-
+msnbot-40-77-167-61.search.msn.com
+0 1 0 244 1 1709253653
+-
+205.210.31.227
+0 1 0 244 1 1709256026
+-
+209.170.91.201
+0 1 0 244 1 1709265893
+-
+146.70.65.153
+0 1 0 244 1 1709252193
+-
+msnbot-40-77-167-108.search.msn.com
+0 1 0 254 0 0
+-
+209-107-216-4.dfw.as54203.net
+0 1 0 244 1 1709272397
+-
+37.139.53.87
+0 1 0 244 1 1709265683
+-
+178.89.13.168.megaline.telecom.kz
+0 1 0 244 1 1709254772
+-
+hostglobal.plus
+0 1 0 248 0 0
+-
+45.32.99.234.vultrusercontent.com
+0 1 0 285 1 1709254689
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5-143-50-174.dynamic.primorye.net.ru
+0 1 0 244 1 1709272557
+-
+2.57.122.196
+0 1 0 248 0 0
+-
+msnbot-40-77-167-61.search.msn.com
+0 1 0 244 1 1709253653
+-
+205.210.31.227
+0 1 0 244 1 1709256026
+-
+209.170.91.201
+0 1 0 244 1 1709265893
+-
+146.70.65.153
+0 1 0 244 1 1709252193
+-
+msnbot-40-77-167-108.search.msn.com
+0 1 0 254 0 0
+-
+209-107-216-4.dfw.as54203.net
+0 1 0 244 1 1709272397
+-
+37.139.53.87
+0 1 0 244 1 1709265683
+-
+178.89.13.168.megaline.telecom.kz
+0 1 0 244 1 1709254772
+-
+hostglobal.plus
+0 1 0 248 0 0
+-
+45.32.99.234.vultrusercontent.com
+0 1 0 285 1 1709254689
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://franciscojavierguardado.com/
+0 4
+- (Direct Request)
+0 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Iron Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.0.1) Gecko/20020823 Netscape/7.0
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Iron Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
